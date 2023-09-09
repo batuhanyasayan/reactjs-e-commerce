@@ -1,5 +1,5 @@
 # reactjs-e-commerce
-Full Responsive E-Commerce Website (Front-End)
+Full Responsive E-Commerce Website
 
 ![Preview](https://github.com/batuhanyasayan/reactjs-e-commerce/blob/main/screenshots/homepage-1.png)
 
